@@ -8,6 +8,7 @@ body {
 	line-height: 1.7;
 	margin: 0;
 	padding: 0;
+	background: beige;
 }
 
 section,article, aside, nav, header, main, footer { display: block; }
